@@ -2,10 +2,10 @@
 <resources>
     <string name="app_name">Your Day</string>
     <string name="home_title">Your Day</string>
-    <string name="home_body">Add the home screen widget to see how many seconds of the current day have already passed. The counter follows your phone's local 24-hour time, where a full day is 86,400 seconds.</string>
+    <string name="home_body">Add the home screen widget to see how many seconds of the current day have already passed. The counter follows your phone's local 24-hour time, where a full day is 86400 seconds.</string>
     <string name="home_button">Refresh widget now</string>
     <string name="widget_header">Seconds lived today</string>
-    <string name="widget_description">Shows the current second of the day out of 86,400.</string>
+    <string name="widget_description">Shows the current second of the day out of 86400.</string>
     <string name="time_format">Local time: %1$s</string>
     <string name="remaining_format">Seconds left today: %1$d</string>
     <string name="progress_format">%1$d%% of the day completed</string>
